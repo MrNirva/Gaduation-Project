@@ -1,15 +1,19 @@
-<pre>
 # Graduation-Project
 Computer Science Graduation Project
 
 The android project we made for students preparing for the university exam.
 
-<img src="https://github.com/MrNirva/Graduation-Project/blob/main/intihal.png" align="left" height="250" width="800" >
+ABSTRACT
 
-</pre>
+Due to the fact that  nowadays learners, instructors and edeucational materials turned out to be mobile; it makes it unevitable that new learning medias to come out. Mobile learning  means  using mobile materials regardless of  time and place to continue education. Free from time and place learning activities gives learners the chance of life -long  learning .
+
+The purposes of our application are to give learners opportunities such as checking their own progress easily, getting ready for exams with a lower budget and a helping assistant that helps to recieve learner’s goals.
+
+<img src="https://github.com/MrNirva/Graduation-Project/blob/main/0.png" align="center" height="702" width="600" >
+
+<img src="https://github.com/MrNirva/Graduation-Project/blob/main/intihal.png" align="center" height="250" width="800" >
+
 [![VIDEO](https://img.youtube.com/vi/KRRYsT7k0Yo/0.jpg)](https://www.youtube.com/watch?v=KRRYsT7k0Yo)
-<pre>
-YOUTUBE VIDEO
 
 <img src="https://github.com/MrNirva/Graduation-Project/blob/main/1.jpeg" align="left" height="500" width="250" >
 <img src="https://github.com/MrNirva/Graduation-Project/blob/main/2.jpeg" align="left" height="500" width="250" >
@@ -25,4 +29,3 @@ YOUTUBE VIDEO
 <img src="https://github.com/MrNirva/Graduation-Project/blob/main/12.jpeg" align="left" height="500" width="250" >
 <img src="https://github.com/MrNirva/Graduation-Project/blob/main/13.jpeg" align="left" height="500" width="250" >
 <img src="https://github.com/MrNirva/Graduation-Project/blob/main/14.jpeg" align="left" height="500" width="250" >
-</pre>
