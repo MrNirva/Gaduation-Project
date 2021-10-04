@@ -1,11 +1,10 @@
+<pre>
 # Graduation-Project
 Computer Science Graduation Project
 
 The android project we made for students preparing for the university exam.
 
 <img src="https://github.com/MrNirva/Graduation-Project/blob/main/intihal.png" align="left" height="250" width="800" >
-
-DEMO VIDEO
 
 [![VIDEO](https://img.youtube.com/vi/KRRYsT7k0Yo/0.jpg)](https://www.youtube.com/watch?v=KRRYsT7k0Yo)
 
@@ -24,3 +23,4 @@ DEMO VIDEO
 <img src="https://github.com/MrNirva/Graduation-Project/blob/main/12.jpeg" align="left" height="500" width="250" >
 <img src="https://github.com/MrNirva/Graduation-Project/blob/main/13.jpeg" align="left" height="500" width="250" >
 <img src="https://github.com/MrNirva/Graduation-Project/blob/main/14.jpeg" align="left" height="500" width="250" >
+</pre>
