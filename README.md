@@ -1,6 +1,8 @@
 # Graduation-Project
 Computer Science Graduation Project
 
+The android project we made for students preparing for the university exam.
+
 <img src="https://github.com/MrNirva/Graduation-Project/blob/main/intihal.png" align="left" height="250" width="800" >
 
 
