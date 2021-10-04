@@ -3,9 +3,9 @@ Computer Science Graduation Project
 
 <img src="https://github.com/MrNirva/Graduation-Project/blob/main/intihal.png" align="left" height="250" width="800" >
 
-<br/>
+
 [![VIDEO](https://img.youtube.com/vi/KRRYsT7k0Yo/0.jpg)](https://www.youtube.com/watch?v=KRRYsT7k0Yo)
-<br/>
+
 
 <img src="https://github.com/MrNirva/Graduation-Project/blob/main/1.jpeg" align="left" height="500" width="250" >
 <img src="https://github.com/MrNirva/Graduation-Project/blob/main/2.jpeg" align="left" height="500" width="250" >
